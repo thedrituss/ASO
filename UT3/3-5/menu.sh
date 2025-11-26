@@ -33,7 +33,7 @@ case $op in
     ;;
   
   2)
-    tar -cf etc.tar .etc/
+    tar -cf etc.tar ./etc/
     
     ;;
   
